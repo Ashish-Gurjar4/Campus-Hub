@@ -46,7 +46,7 @@ export default function SignupForm() {
       <Input
         label="Display Name"
         icon={User}
-        placeholder="Priyasha Yadav"
+        placeholder="Ashish Gurjar"
         value={displayName}
         onChange={(e) => setDisplayName(e.target.value)}
         required
