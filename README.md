@@ -5,22 +5,7 @@ Campus Hub is a full-stack campus community platform for students to buy and sel
 ## Links
 - [Live Demo](https://campus-hub-livid.vercel.app)
 - [Backend Server](https://campus-hub-bng6.onrender.com)
-- [Backend Repo](https://github.com/Priyasha-Yadav/campus-hub/tree/main/backend)
-- [Frontend Repo](https://github.com/Priyasha-Yadav/campus-hub/tree/main/frontend)
 - [API Documentation](https://documenter.getpostman.com/view/39189648/2sBXqJJfMY)
-
-## Demo Video
-
-<iframe
-	width="100%"
-	height="420"
-	src="https://www.youtube.com/embed/T6d5j0IFiI8?si=b1zfPIVJHtAZMGVp"
-	title="Campus Hub demo video"
-	frameborder="0"
-	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-	referrerpolicy="strict-origin-when-cross-origin"
-	allowfullscreen>
-</iframe>
 
 ## Highlights
 
